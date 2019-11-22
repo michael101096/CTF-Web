@@ -1,0 +1,4 @@
+SQL Injection
+XSS
+CSRF
+SSTI (Server Side Template Injection)
